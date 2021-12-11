@@ -1,27 +1,26 @@
-<h1 align="center">Hi 👋, I'm Prakash</h1>
-<h3 align="center">A passionate app/web developer</h3>
+# Hi 👋, I'm Prakash
+## A passionate Full stack developer
 
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=prakashdk&label=Profile%20views&color=0e75b6&style=flat" alt="prakashdk" /> </p-->
 
 <!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakashdk" alt="prakashdk" /></a> </p-->
 
-- 🌱 I’m currently learning **Angular, Devops etc..**
+> - 🌱 I’m currently learning **Angular, Devops etc..**
+> - 💬 Ask me about **Java, React & Spring**
+> - 📫 How to reach me **dprakash482@gmail.com**
 
-- 💬 Ask me about **Java, React & Spring as well**
+### Connect with me
 
-- 📫 How to reach me **dprakash482@gmail.com**
+> [Linked In](https://linkedin.com/in/prakash-devendran)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prakash-devendran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakash-devendran" height="30" width="40" /></a>
-  </p>
-  <h3 align="left">Visit here to see my problem solving skills:</h3>
-  <p>
-<a href="https://www.hackerrank.com/d_prakash_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="d_prakash_25" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/prakash2001/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prakash2001/profile" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@18euit104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@18euit104" height="30" width="40" /></a>
+### Visit here to see my problem solving skills:
+ 
+> [Hackerrank](https://www.hackerrank.com/d_prakash_25)
 
-</p>
+> [GeeksForGeeks](https://auth.geeksforgeeks.org/user/prakash2001/profile)
+
+> [Hackerearth](https://www.hackerearth.com/@18euit104)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
