@@ -1,5 +1,5 @@
 # Hi 👋, I'm Prakash
-## A passionate Full stack developer
+## A passionate `Full Stack` developer
 
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=prakashdk&label=Profile%20views&color=0e75b6&style=flat" alt="prakashdk" /> </p-->
 
