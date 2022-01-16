@@ -5,7 +5,7 @@
 
 <!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakashdk" alt="prakashdk" /></a> </p-->
 
-> - 🌱 I’m currently learning **Angular, Devops etc..**
+> - 🌱 I’m currently learning **Devops etc..**
 > - 💬 Ask me about **Java, React & Spring**
 > - 📫 How to reach me **dprakash482@gmail.com**
 
