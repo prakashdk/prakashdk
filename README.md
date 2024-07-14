@@ -1,13 +1,14 @@
 # Hi 👋, I'm Prakash
-## A passionate `Full Stack` developer
+## A `Full Stack` developer & `DevOps` Engineer
 
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=prakashdk&label=Profile%20views&color=0e75b6&style=flat" alt="prakashdk" /> </p-->
 
 <!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakashdk" alt="prakashdk" /></a> </p-->
 
-> - 🌱 I’m currently learning **Devops etc..**
-> - 💬 Ask me about **Java, React & Spring**
-> - 📫 How to reach me **dprakash482@gmail.com**
+> - 🌱 I’ve been coding in Typescript and Java for over 2 years
+> - 🚀 I’ve also been managing deployments and infrastructure using Kubernetes, AWS, and Azure for over 2 years.
+> - 💬 Ask me about **Java, ReactJs, SpringBoot, NestJs & Cloud**
+> - 📫 How to reach me **dkprakash493@gmail.com**
 
 ### Connect with me
 
