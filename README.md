@@ -1,21 +1,25 @@
 # Hi 👋, I'm Prakash
-## A `Full Stack` developer & `DevOps` Engineer
+## A Software Engineer
 
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=prakashdk&label=Profile%20views&color=0e75b6&style=flat" alt="prakashdk" /> </p-->
 
 <!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakashdk" alt="prakashdk" /></a> </p-->
 
-> - 🌱 I’ve been coding in Typescript and Java for over 2 years
-> - 🚀 I’ve also been managing deployments and infrastructure using Kubernetes, AWS, and Azure for over 2 years.
-> - 💬 Ask me about **Java, ReactJs, SpringBoot, NestJs & Cloud**
+> - 🌱 I’ve been coding in Python and Java for over 3 years
+> - 🚀 I’ve also been managing deployments and infrastructure using Kubernetes, AWS, and Azure.
+> - 💬 Ask me about **Web App & Cloud**
 > - 📫 How to reach me **dkprakash493@gmail.com**
 
 ### Connect with me
 
 > [Linked In](https://linkedin.com/in/prakash-devendran)
 
+> [Portfolio](https://prakashdk.github.io)
+
 ### Visit here to see my problem solving skills:
- 
+
+> [LeetCode](https://leetcode.com/u/EvZlUB3Tbi)
+
 > [Hackerrank](https://www.hackerrank.com/d_prakash_25)
 
 > [GeeksForGeeks](https://auth.geeksforgeeks.org/user/prakash2001/profile)
